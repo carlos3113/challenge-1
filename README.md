@@ -124,7 +124,3 @@ T3: $27.2k/envío (más eficiente)
 **Chemical Engineer | Data Analyst**  
 
 </div>
-
-***
-
-**¡Copiar este README.md a tu repositorio y listo! 🚀**
